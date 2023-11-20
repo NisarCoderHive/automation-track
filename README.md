@@ -3,6 +3,7 @@
 Sequence of topics (tentative):
 
 - Core Java
+- Manual Testing
 - Unit Testing
   - Junit
 - API Testing
